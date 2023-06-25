@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+
+*{
+	box-sizing:border-box;
+}
+.container{
+	width:300px;
+	padding:50px;
+	background-color:lightblue;
+	border:15px solid blue;
+}
